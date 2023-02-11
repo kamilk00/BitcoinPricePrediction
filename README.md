@@ -2,7 +2,7 @@
 
 ### Aim of the project
 
-The aim of the project is to develop a solution that predicts price of Bitcoin with the use of Jupyter, Python with some Data Science libraries. 
+The aim of the project is to develop a solution that predicts price of Bitcoin with the use of Jupyter and Python with some Data Science libraries. 
 
 ### Description of the project
 
